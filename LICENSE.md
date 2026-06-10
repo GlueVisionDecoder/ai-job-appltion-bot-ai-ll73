@@ -1,4 +1,4 @@
-# 
+# Exclusivo AI Job Application Bot plugins. Con aprendizaje por transferencia y visualización de datos — optimizado para el máximo rendimiento.
 
 
 
